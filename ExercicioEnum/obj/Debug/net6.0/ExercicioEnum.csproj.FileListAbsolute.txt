@@ -1,0 +1,15 @@
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.csproj.AssemblyReference.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.AssemblyInfoInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.AssemblyInfo.cs
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.csproj.CoreCompileInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\bin\Debug\net6.0\ExercicioEnum.exe
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\bin\Debug\net6.0\ExercicioEnum.deps.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\bin\Debug\net6.0\ExercicioEnum.runtimeconfig.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\bin\Debug\net6.0\ExercicioEnum.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\bin\Debug\net6.0\ExercicioEnum.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\refint\ExercicioEnum.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.genruntimeconfig.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ref\ExercicioEnum.dll
